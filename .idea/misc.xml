@@ -6,7 +6,13 @@
         <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/activity_main.xml" value="0.1405775075987842" />
         <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/activity_weather.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/aqi.xml" value="0.33" />
         <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/choose_area.xml" value="0.33177083333333335" />
+        <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/forecast.xml" value="0.19746376811594202" />
+        <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/forecast_item.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/now.xml" value="0.1489071038251366" />
+        <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/suggestion.xml" value="0.12968591691995948" />
+        <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/title.xml" value="0.19746376811594202" />
       </map>
     </option>
   </component>
